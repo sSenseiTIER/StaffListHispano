@@ -1,18 +1,14 @@
-[
-  {
-    "Rank": "Owner",
-    "Discord": "vayju",
-    "Discord ID": "823659261183262730",
-    "MC Name": "Sensei",
-    "Status": "Active",
-    "Last Updated": "2025-09-21T22:20:07.390708"
+{
+  "metadata": {
+    "last_updated": "2025-09-21T22:50:52.974767",
+    "total_staff": 0,
+    "version": "2.0",
+    "bot_source": "SWORD"
   },
-  {
-    "Rank": "Owner",
-    "Discord": "tiliwilis",
-    "Discord ID": "1068594443441164328",
-    "MC Name": "Tilw",
-    "Status": "Active",
-    "Last Updated": "2025-09-21T22:20:07.390731"
-  }
-]
+  "modalidades": {
+    "sword": [],
+    "nethpot": [],
+    "crystal_vanilla": []
+  },
+  "global_owners": []
+}
