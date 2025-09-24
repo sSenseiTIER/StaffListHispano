@@ -1,14 +1,84 @@
 {
   "metadata": {
-    "last_updated": "2025-09-24T20:53:43.628304",
-    "total_staff": 0,
+    "last_updated": "2025-09-24T21:19:12.257164",
+    "total_staff": 7,
     "version": "2.0",
     "bot_source": "SWORD"
   },
   "modalidades": {
-    "sword": [],
+    "sword": [
+      {
+        "Rank": "Owner",
+        "Discord": "bigcuts",
+        "Discord ID": "1311116434604294244",
+        "MC Name": "!Bigcuts",
+        "Status": "Active",
+        "Modalidad": "💠 TierList Hispana | NetheritePot 1.9+",
+        "Server": "💠 TierList Hispana | NetheritePot 1.9+",
+        "Last Updated": "2025-09-24T21:19:12.500872"
+      },
+      {
+        "Rank": "Manager",
+        "Discord": "glamsillo_",
+        "Discord ID": "834555196541108246",
+        "MC Name": "AtKyrie",
+        "Status": "Active",
+        "Modalidad": "💠 TierList Hispana | NetheritePot 1.9+",
+        "Server": "💠 TierList Hispana | NetheritePot 1.9+",
+        "Last Updated": "2025-09-24T21:19:12.500646"
+      },
+      {
+        "Rank": "Head Tester",
+        "Discord": "plainsiren",
+        "Discord ID": "933892159713734716",
+        "MC Name": "PlainSiren",
+        "Status": "Active",
+        "Modalidad": "💠 TierList Hispana | NetheritePot 1.9+",
+        "Server": "💠 TierList Hispana | NetheritePot 1.9+",
+        "Last Updated": "2025-09-24T21:19:12.500718"
+      },
+      {
+        "Rank": "Senior Tester",
+        "Discord": "motilykf",
+        "Discord ID": "826586739862405140",
+        "MC Name": "𓆰motiykf𓆪",
+        "Status": "Active",
+        "Modalidad": "💠 TierList Hispana | NetheritePot 1.9+",
+        "Server": "💠 TierList Hispana | NetheritePot 1.9+",
+        "Last Updated": "2025-09-24T21:19:12.500558"
+      },
+      {
+        "Rank": "Senior Tester",
+        "Discord": "roisito1",
+        "Discord ID": "978383386668326943",
+        "MC Name": "Roist_",
+        "Status": "Active",
+        "Modalidad": "💠 TierList Hispana | NetheritePot 1.9+",
+        "Server": "💠 TierList Hispana | NetheritePot 1.9+",
+        "Last Updated": "2025-09-24T21:19:12.500800"
+      }
+    ],
     "nethpot": [],
     "crystal_vanilla": []
   },
-  "global_owners": []
+  "global_owners": [
+    {
+      "Rank": "Owner",
+      "Discord": "vayju",
+      "Discord ID": "823659261183262730",
+      "MC Name": "Sensei",
+      "Status": "Active",
+      "Modalidad": "Global",
+      "Last Updated": "2025-09-24T21:19:12.257476"
+    },
+    {
+      "Rank": "Owner",
+      "Discord": "tiliwilis",
+      "Discord ID": "1068594443441164328",
+      "MC Name": "Tilw",
+      "Status": "Active",
+      "Modalidad": "Global",
+      "Last Updated": "2025-09-24T21:19:12.500808"
+    }
+  ]
 }
