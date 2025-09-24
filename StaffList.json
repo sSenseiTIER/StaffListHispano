@@ -1,22 +1,12 @@
 {
   "metadata": {
-    "last_updated": "2025-09-24T21:21:50.858480",
-    "total_staff": 7,
+    "last_updated": "2025-09-24T21:27:43.619591",
+    "total_staff": 3,
     "version": "2.0",
     "bot_source": "SWORD"
   },
   "modalidades": {
     "sword": [
-      {
-        "Rank": "Owner",
-        "Discord": "bigcuts",
-        "Discord ID": "1311116434604294244",
-        "MC Name": "!Bigcuts",
-        "Status": "Active",
-        "Modalidad": "💠 TierList Hispana | NetheritePot 1.9+",
-        "Server": "💠 TierList Hispana | NetheritePot 1.9+",
-        "Last Updated": "2025-09-24T21:21:50.966155"
-      },
       {
         "Rank": "Manager",
         "Discord": "glamsillo_",
@@ -25,37 +15,7 @@
         "Status": "Active",
         "Modalidad": "💠 TierList Hispana | NetheritePot 1.9+",
         "Server": "💠 TierList Hispana | NetheritePot 1.9+",
-        "Last Updated": "2025-09-24T21:21:50.965731"
-      },
-      {
-        "Rank": "Head Tester",
-        "Discord": "plainsiren",
-        "Discord ID": "933892159713734716",
-        "MC Name": "PlainSiren",
-        "Status": "Active",
-        "Modalidad": "💠 TierList Hispana | NetheritePot 1.9+",
-        "Server": "💠 TierList Hispana | NetheritePot 1.9+",
-        "Last Updated": "2025-09-24T21:21:50.965867"
-      },
-      {
-        "Rank": "Senior Tester",
-        "Discord": "motilykf",
-        "Discord ID": "826586739862405140",
-        "MC Name": "𓆰motiykf𓆪",
-        "Status": "Active",
-        "Modalidad": "💠 TierList Hispana | NetheritePot 1.9+",
-        "Server": "💠 TierList Hispana | NetheritePot 1.9+",
-        "Last Updated": "2025-09-24T21:21:50.965574"
-      },
-      {
-        "Rank": "Senior Tester",
-        "Discord": "roisito1",
-        "Discord ID": "978383386668326943",
-        "MC Name": "Roist_",
-        "Status": "Active",
-        "Modalidad": "💠 TierList Hispana | NetheritePot 1.9+",
-        "Server": "💠 TierList Hispana | NetheritePot 1.9+",
-        "Last Updated": "2025-09-24T21:21:50.966010"
+        "Last Updated": "2025-09-24T21:27:43.852486"
       }
     ],
     "nethpot": [],
@@ -69,7 +29,7 @@
       "MC Name": "Sensei",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-09-24T21:21:50.858846"
+      "Last Updated": "2025-09-24T21:27:43.620071"
     },
     {
       "Rank": "Owner",
@@ -78,7 +38,7 @@
       "MC Name": "Tilw",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-09-24T21:21:50.966026"
+      "Last Updated": "2025-09-24T21:27:43.852762"
     }
   ]
 }
