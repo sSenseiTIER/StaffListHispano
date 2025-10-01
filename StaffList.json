@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2025-10-01T20:27:24.537001",
-    "total_staff": 3,
+    "last_updated": "2025-10-01T20:33:16.586244",
+    "total_staff": 16,
     "version": "2.0",
-    "bot_source": "SWORD"
+    "bot_source": "NETHPOT"
   },
   "modalidades": {
     "sword": [
@@ -13,9 +13,139 @@
         "Discord ID": "834555196541108246",
         "MC Name": "AtKyrie",
         "Status": "Active",
-        "Modalidad": "[1.21+] Sword PvP Community",
-        "Server": "[1.21+] Sword PvP Community",
-        "Last Updated": "2025-10-01T20:27:24.806361"
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:17.401448"
+      },
+      {
+        "Rank": "ScreenSharer",
+        "Discord": "jxr3mii",
+        "Discord ID": "1249384605811736586",
+        "MC Name": "Admin | Jxr3mii",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:16.605571"
+      },
+      {
+        "Rank": "ScreenSharer",
+        "Discord": "zkernelmode",
+        "Discord ID": "1088599712090824806",
+        "MC Name": "SSer | zKernel",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:16.625923"
+      },
+      {
+        "Rank": "Senior Tester",
+        "Discord": "dnuck._.",
+        "Discord ID": "840004496067133490",
+        "MC Name": "NA | PHA",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:17.208227"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "11011101",
+        "Discord ID": "1394815658453368944",
+        "MC Name": "SA | HAAARPER",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:16.615933"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "remisero912p9",
+        "Discord ID": "620119197216669706",
+        "MC Name": "SA-NA | Wafledo",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:16.650929"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "nsbbq.",
+        "Discord ID": "766048405301887010",
+        "MC Name": "SA/NA | faabula",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:16.699557"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "shalhy",
+        "Discord ID": "1106675030340944032",
+        "MC Name": "NA-SA | ShaLhy_0713",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:16.736861"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "finct.1",
+        "Discord ID": "606868190093377550",
+        "MC Name": "SA / NA | Finct @tag me for test",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:16.758052"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "sheik_t",
+        "Discord ID": "842936345479610389",
+        "MC Name": "NA | Versate | No Stray",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:16.979724"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "koreanch",
+        "Discord ID": "742711673046958091",
+        "MC Name": "SA | K1ngmichi add eval",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:17.012777"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "bigcuts",
+        "Discord ID": "1311116434604294244",
+        "MC Name": "SA | Bigcuts",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:17.030353"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "waxboy.",
+        "Discord ID": "607752834540371991",
+        "MC Name": "SA | FEDEWAX",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:17.229576"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "kimity__",
+        "Discord ID": "1367909617039970406",
+        "MC Name": "Helper | olfd (SA/NA)",
+        "Status": "Active",
+        "Modalidad": "[1.21+) Netherite Pot Community",
+        "Server": "[1.21+) Netherite Pot Community",
+        "Last Updated": "2025-10-01T20:33:17.267953"
       }
     ],
     "nethpot": [],
@@ -24,21 +154,21 @@
   "global_owners": [
     {
       "Rank": "Owner",
-      "Discord": "vayju",
-      "Discord ID": "823659261183262730",
-      "MC Name": "Sensei",
-      "Status": "Active",
-      "Modalidad": "Global",
-      "Last Updated": "2025-10-01T20:27:24.537501"
-    },
-    {
-      "Rank": "Owner",
       "Discord": "tiliwilis",
       "Discord ID": "1068594443441164328",
       "MC Name": "Tilw",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-01T20:27:24.806844"
+      "Last Updated": "2025-10-01T20:33:16.814528"
+    },
+    {
+      "Rank": "Owner",
+      "Discord": "vayju",
+      "Discord ID": "823659261183262730",
+      "MC Name": "Dev | Vayju",
+      "Status": "Active",
+      "Modalidad": "Global",
+      "Last Updated": "2025-10-01T20:33:16.926973"
     }
   ]
 }
