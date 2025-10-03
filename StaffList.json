@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2025-10-03T00:47:20.734492",
+    "last_updated": "2025-10-03T00:47:20.731302",
     "total_staff": 3,
     "version": "2.0",
     "bot_source": "SWORD"
@@ -15,7 +15,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community",
-        "Last Updated": "2025-10-03T00:47:20.817734"
+        "Last Updated": "2025-10-03T00:47:20.816108"
       }
     ],
     "nethpot": [],
@@ -29,7 +29,7 @@
       "MC Name": "Sensei",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-03T00:47:20.734905"
+      "Last Updated": "2025-10-03T00:47:20.731687"
     },
     {
       "Rank": "Owner",
@@ -38,7 +38,7 @@
       "MC Name": "Tilw",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-03T00:47:20.818122"
+      "Last Updated": "2025-10-03T00:47:20.816652"
     }
   ]
 }
