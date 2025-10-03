@@ -1,157 +1,46 @@
 {
   "metadata": {
-    "last_updated": "2025-10-03T09:25:39.497446",
-    "total_staff": 16,
+    "last_updated": "2025-10-03T09:35:00.396231",
+    "total_staff": 4,
     "version": "2.0",
-    "bot_source": "NETHPOT"
+    "bot_source": "SWORD"
   },
   "modalidades": {
-    "sword": [],
-    "nethpot": [
+    "sword": [
       {
         "Rank": "Manager",
         "Discord": "glamsillo_",
         "Discord ID": "834555196541108246",
         "MC Name": "AtKyrie",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.783194"
-      },
-      {
-        "Rank": "ScreenSharer",
-        "Discord": "jxr3mii",
-        "Discord ID": "1249384605811736586",
-        "MC Name": "Admin | Jxr3mii",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.514991"
-      },
-      {
-        "Rank": "ScreenSharer",
-        "Discord": "zkernelmode",
-        "Discord ID": "1088599712090824806",
-        "MC Name": "SSer | zKernel",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.535413"
+        "Modalidad": "Sword",
+        "Server": "[1.21+] Sword PvP Community",
+        "Last Updated": "2025-10-03T09:35:00.396937"
       },
       {
         "Rank": "Senior Tester",
-        "Discord": "dnuck._.",
-        "Discord ID": "840004496067133490",
-        "MC Name": "NA | PHA",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.904302"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "11011101",
-        "Discord ID": "1394815658453368944",
-        "MC Name": "SA | HAAARPER",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.526889"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "remisero912p9",
-        "Discord ID": "620119197216669706",
-        "MC Name": "SA-NA | Wafledo",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.559638"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "nsbbq.",
-        "Discord ID": "766048405301887010",
-        "MC Name": "SA/NA | faabula",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.603569"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "shalhy",
-        "Discord ID": "1106675030340944032",
-        "MC Name": "NA-SA | ShaLhy_0713",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.635981"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "finct.1",
-        "Discord ID": "606868190093377550",
-        "MC Name": "SA / NA | Finct @tag me for test",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.655268"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "sheik_t",
-        "Discord ID": "842936345479610389",
-        "MC Name": "NA | Versate | No Stray",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.783479"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "koreanch",
-        "Discord ID": "742711673046958091",
-        "MC Name": "SA | K1ngmichi add eval",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.800346"
-      },
-      {
-        "Rank": "Verified Tester",
         "Discord": "bigcuts",
         "Discord ID": "1311116434604294244",
-        "MC Name": "SA | Bigcuts",
+        "MC Name": "!Bigcuts",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.809842"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "waxboy.",
-        "Discord ID": "607752834540371991",
-        "MC Name": "SA | FEDEWAX",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.916794"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "kimity__",
-        "Discord ID": "1367909617039970406",
-        "MC Name": "Helper | olfd (SA/NA)",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+) Netherite Pot Community",
-        "Last Updated": "2025-10-03T09:25:39.941349"
+        "Modalidad": "Sword",
+        "Server": "[1.21+] Sword PvP Community",
+        "Last Updated": "2025-10-03T09:35:00.397513"
       }
     ],
+    "nethpot": [],
     "crystal_vanilla": []
   },
   "global_owners": [
+    {
+      "Rank": "Owner",
+      "Discord": "vayju",
+      "Discord ID": "823659261183262730",
+      "MC Name": "Sensei",
+      "Status": "Active",
+      "Modalidad": "Global",
+      "Last Updated": "2025-10-03T09:35:00.396508"
+    },
     {
       "Rank": "Owner",
       "Discord": "tiliwilis",
@@ -159,16 +48,7 @@
       "MC Name": "Tilw",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-03T09:25:39.697867"
-    },
-    {
-      "Rank": "Owner",
-      "Discord": "vayju",
-      "Discord ID": "823659261183262730",
-      "MC Name": "Dev | Ma abrime porfa",
-      "Status": "Active",
-      "Modalidad": "Global",
-      "Last Updated": "2025-10-03T09:25:39.755707"
+      "Last Updated": "2025-10-03T09:35:00.397255"
     }
   ]
 }
