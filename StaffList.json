@@ -1,184 +1,284 @@
 {
   "metadata": {
-    "last_updated": "2025-10-04T05:35:39.495897",
-    "total_staff": 17,
+    "last_updated": "2025-10-04T05:45:18.704091",
+    "total_staff": 27,
     "version": "2.0",
-    "bot_source": "NETHPOT"
+    "bot_source": "VANILLA"
   },
   "modalidades": {
     "sword": [],
-    "nethpot": [
+    "nethpot": [],
+    "crystal_vanilla": [
+      {
+        "Rank": "Manager",
+        "Discord": "lunnny_",
+        "Discord ID": "1364057781014892597",
+        "MC Name": "SA | IlyLunnnaa @ 4 help",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.736811"
+      },
       {
         "Rank": "Manager",
         "Discord": "glamsillo_",
         "Discord ID": "834555196541108246",
         "MC Name": "AtKyrie",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.789563"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.822637"
       },
       {
-        "Rank": "ScreenSharer",
-        "Discord": "jxr3mii",
-        "Discord ID": "1249384605811736586",
-        "MC Name": "Admin | Jxr3mii",
+        "Rank": "Manager",
+        "Discord": "itzshadess",
+        "Discord ID": "1109326202793115648",
+        "MC Name": "Manager • shadens-sin teclado",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.512843"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.834249"
       },
       {
-        "Rank": "ScreenSharer",
-        "Discord": "zkernelmode",
-        "Discord ID": "1088599712090824806",
-        "MC Name": "SSer | zKernel",
+        "Rank": "Head Tester",
+        "Discord": "lopezqui",
+        "Discord ID": "715648575119294546",
+        "MC Name": "AUSENTE",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.532556"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.709000"
+      },
+      {
+        "Rank": "Head Tester",
+        "Discord": "yoquese_nd",
+        "Discord ID": "1057428250961399808",
+        "MC Name": "NA | Yoperobaneade",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.903278"
       },
       {
         "Rank": "Senior Tester",
-        "Discord": "dnuck._.",
-        "Discord ID": "840004496067133490",
-        "MC Name": "NA | PHA",
+        "Discord": "sh1tass",
+        "Discord ID": "522853482772955141",
+        "MC Name": "NA | Sh1tass",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.927079"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.788103"
+      },
+      {
+        "Rank": "Senior Tester",
+        "Discord": "0uon",
+        "Discord ID": "757971997354623127",
+        "MC Name": "NA | enlyyy",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.874555"
+      },
+      {
+        "Rank": "Senior Tester",
+        "Discord": "scxir",
+        "Discord ID": "958518412387180544",
+        "MC Name": "NA | Scxir",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.893800"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "11011101",
-        "Discord ID": "1394815658453368944",
-        "MC Name": "SA | HAAARPER",
+        "Discord": "diusikke",
+        "Discord ID": "913924891588325376",
+        "MC Name": "NA | Diusikke",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.523399"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.721483"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "remisero912p9",
-        "Discord ID": "620119197216669706",
-        "MC Name": "SA-NA | Wafledo",
+        "Discord": "dirigeanttt",
+        "Discord ID": "1365371835423653958",
+        "MC Name": "NA | X_FanDeAleswq_X",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.555899"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.730005"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "nsbbq.",
-        "Discord ID": "766048405301887010",
-        "MC Name": "SA/NA | faabula",
+        "Discord": "sanjuaa",
+        "Discord ID": "884104060431650856",
+        "MC Name": "SA | zzbtt",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.599238"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.738496"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "shalhy",
-        "Discord ID": "1106675030340944032",
-        "MC Name": "NA-SA | ShaLhy_0713",
+        "Discord": "pieroov_",
+        "Discord ID": "858367935814828092",
+        "MC Name": "EU | piero @ for test",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.633496"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.772633"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "sheik_t",
-        "Discord ID": "842936345479610389",
-        "MC Name": "NA | Versate | No Stray",
+        "Discord": "pablo_escamilla3",
+        "Discord ID": "1102642575099314218",
+        "MC Name": "NA | Aeridd",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.789886"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.791916"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "koreanch",
-        "Discord ID": "742711673046958091",
-        "MC Name": "SA | K1ngmichi add eval",
+        "Discord": "hku9_",
+        "Discord ID": "1259172426957197316",
+        "MC Name": "NA | Hku9",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.811174"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.795886"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "frenchfries_0",
+        "Discord ID": "1326703062240329908",
+        "MC Name": "NA | NotEyes",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.812172"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "cutesakurashapedrazorblade",
+        "Discord ID": "952028006614982706",
+        "MC Name": "@para test NA | zRuss_",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.824953"
       },
       {
         "Rank": "Verified Tester",
         "Discord": "bigcuts",
         "Discord ID": "1311116434604294244",
-        "MC Name": "SA | Bigcuts",
+        "MC Name": "!Bigcuts",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.823573"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.834980"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "waxboy.",
-        "Discord ID": "607752834540371991",
-        "MC Name": "SA | FEDEWAX",
+        "Discord": "chinmayplayz_",
+        "Discord ID": "1165107232942342204",
+        "MC Name": "NA | Angel_Ante No beedom, blot",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.940027"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.843540"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "kimity__",
-        "Discord ID": "1367909617039970406",
-        "MC Name": "Helper | olfd (SA/NA)",
+        "Discord": "zhackeado_",
+        "Discord ID": "748284466019041372",
+        "MC Name": "NA | zHackeado_",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:39.961607"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.846258"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": ".sweky",
-        "Discord ID": "1212418962717941771",
-        "MC Name": "S",
+        "Discord": "8mag",
+        "Discord ID": "764568397388054549",
+        "MC Name": "Sigmawwo",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:40.037517"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.847196"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "inksouu_",
-        "Discord ID": "1287130730383671388",
-        "MC Name": "EU| qvoh",
+        "Discord": "juanelnoob009",
+        "Discord ID": "753322380323192914",
+        "MC Name": "NA | juanoelnoob09",
         "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community",
-        "Last Updated": "2025-10-04T05:35:40.041239"
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.885357"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "9il",
+        "Discord ID": "793971574435872768",
+        "MC Name": "CentedTortus",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.887548"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "torkinzz",
+        "Discord ID": "936383659198525490",
+        "MC Name": "andres",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.889438"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "madethunder",
+        "Discord ID": "755600178584485990",
+        "MC Name": "NA | MadeTHUNDER",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.905332"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "cabezaepipe888",
+        "Discord ID": "993682551518543883",
+        "MC Name": "NA | Adrigonskibidi",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-04T05:45:18.911642"
       }
-    ],
-    "crystal_vanilla": []
+    ]
   },
   "global_owners": [
     {
       "Rank": "Owner",
       "Discord": "tiliwilis",
       "Discord ID": "1068594443441164328",
-      "MC Name": "Tilw",
+      "MC Name": "Tiliwilis @ For Help",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-04T05:35:39.698937"
+      "Last Updated": "2025-10-04T05:45:18.786403"
     },
     {
       "Rank": "Owner",
       "Discord": "vayju",
       "Discord ID": "823659261183262730",
-      "MC Name": "Dev | Ma abrime porfa",
+      "MC Name": "Dev | ma abrime porf",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-04T05:35:39.760749"
+      "Last Updated": "2025-10-04T05:45:18.811109"
     }
   ]
 }
