@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2025-10-06T22:52:59.890878",
+    "last_updated": "2025-10-06T22:52:59.934878",
     "total_staff": 14,
     "version": "2.0",
     "bot_source": "SWORD"
@@ -15,7 +15,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-06T22:53:00.110767"
+        "Last Updated": "2025-10-06T22:53:00.118740"
       },
       {
         "Rank": "Manager",
@@ -25,7 +25,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-06T22:53:00.112812"
+        "Last Updated": "2025-10-06T22:53:00.119984"
       },
       {
         "Rank": "Verified Tester",
@@ -35,7 +35,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-06T22:53:00.109987"
+        "Last Updated": "2025-10-06T22:53:00.118090"
       },
       {
         "Rank": "Verified Tester",
@@ -45,7 +45,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-06T22:53:00.113733"
+        "Last Updated": "2025-10-06T22:53:00.120523"
       },
       {
         "Rank": "Verified Tester",
@@ -55,7 +55,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-06T22:53:00.114314"
+        "Last Updated": "2025-10-06T22:53:00.120900"
       },
       {
         "Rank": "Verified Tester",
@@ -65,7 +65,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-06T22:53:00.114741"
+        "Last Updated": "2025-10-06T22:53:00.121308"
       },
       {
         "Rank": "Verified Tester",
@@ -75,7 +75,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-06T22:53:00.115564"
+        "Last Updated": "2025-10-06T22:53:00.122084"
       },
       {
         "Rank": "Verified Tester",
@@ -85,7 +85,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-06T22:53:00.116046"
+        "Last Updated": "2025-10-06T22:53:00.122591"
       },
       {
         "Rank": "Verified Tester",
@@ -95,7 +95,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-06T22:53:00.116590"
+        "Last Updated": "2025-10-06T22:53:00.123339"
       },
       {
         "Rank": "Verified Tester",
@@ -105,7 +105,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-06T22:53:00.116960"
+        "Last Updated": "2025-10-06T22:53:00.123816"
       },
       {
         "Rank": "Verified Tester",
@@ -115,7 +115,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-06T22:53:00.117428"
+        "Last Updated": "2025-10-06T22:53:00.124472"
       }
     ],
     "nethpot": [],
@@ -129,7 +129,7 @@
       "MC Name": "Sensei",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-06T22:53:00.110790"
+      "Last Updated": "2025-10-06T22:53:00.118759"
     },
     {
       "Rank": "Owner",
@@ -138,7 +138,7 @@
       "MC Name": "Tilw",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-06T22:53:00.113760"
+      "Last Updated": "2025-10-06T22:53:00.120543"
     },
     {
       "Rank": "Owner",
@@ -147,7 +147,7 @@
       "MC Name": "!Bigcuts",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-06T22:53:00.115587"
+      "Last Updated": "2025-10-06T22:53:00.122110"
     }
   ]
 }
