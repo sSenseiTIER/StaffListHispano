@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2025-10-11T17:00:44.559944",
+    "last_updated": "2025-10-11T17:04:55.457505",
     "total_staff": 15,
     "version": "2.0",
     "bot_source": "SWORD"
@@ -15,7 +15,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.561215"
+        "Last Updated": "2025-10-11T17:04:55.538225"
       },
       {
         "Rank": "Manager",
@@ -25,27 +25,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.561707"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "pacoelpanadero",
-        "Discord ID": "670534819536699395",
-        "MC Name": "EU | SandraConFe",
-        "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.560763"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "1tkyv.2",
-        "Discord ID": "976163381679624212",
-        "MC Name": "EU | Darexcheat2006",
-        "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.562147"
+        "Last Updated": "2025-10-11T17:04:55.546609"
       },
       {
         "Rank": "Verified Tester",
@@ -55,17 +35,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.562373"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "timuel36",
-        "Discord ID": "1132736885635166278",
-        "MC Name": "NA | Shamu_MC",
-        "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.562631"
+        "Last Updated": "2025-10-11T17:04:55.539153"
       },
       {
         "Rank": "Verified Tester",
@@ -75,37 +45,17 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.562845"
+        "Last Updated": "2025-10-11T17:04:55.541858"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "inksouu_",
-        "Discord ID": "1287130730383671388",
-        "MC Name": "EU | qvoh",
+        "Discord": "pacoelpanadero",
+        "Discord ID": "670534819536699395",
+        "MC Name": "EU | SandraConFe",
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.563505"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "frenchfries_0",
-        "Discord ID": "1326703062240329908",
-        "MC Name": "NA | DerekDeNanita",
-        "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.563739"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "kimity__",
-        "Discord ID": "1367909617039970406",
-        "MC Name": "NA/SA | olfd",
-        "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.564272"
+        "Last Updated": "2025-10-11T17:04:55.542359"
       },
       {
         "Rank": "Verified Tester",
@@ -115,7 +65,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.564553"
+        "Last Updated": "2025-10-11T17:04:55.542798"
       },
       {
         "Rank": "Verified Tester",
@@ -125,7 +75,57 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T17:00:44.564993"
+        "Last Updated": "2025-10-11T17:04:55.543808"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "frenchfries_0",
+        "Discord ID": "1326703062240329908",
+        "MC Name": "NA | DerekDeNanita",
+        "Status": "Active",
+        "Modalidad": "Sword",
+        "Server": "[1.21+] Sword PvP Community Hispana",
+        "Last Updated": "2025-10-11T17:04:55.545308"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "inksouu_",
+        "Discord ID": "1287130730383671388",
+        "MC Name": "EU | qvoh",
+        "Status": "Active",
+        "Modalidad": "Sword",
+        "Server": "[1.21+] Sword PvP Community Hispana",
+        "Last Updated": "2025-10-11T17:04:55.547067"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "1tkyv.2",
+        "Discord ID": "976163381679624212",
+        "MC Name": "EU | Darexcheat2006",
+        "Status": "Active",
+        "Modalidad": "Sword",
+        "Server": "[1.21+] Sword PvP Community Hispana",
+        "Last Updated": "2025-10-11T17:04:55.547739"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "kimity__",
+        "Discord ID": "1367909617039970406",
+        "MC Name": "NA/SA | olfd",
+        "Status": "Active",
+        "Modalidad": "Sword",
+        "Server": "[1.21+] Sword PvP Community Hispana",
+        "Last Updated": "2025-10-11T17:04:55.550488"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "timuel36",
+        "Discord ID": "1132736885635166278",
+        "MC Name": "NA | Shamu_MC",
+        "Status": "Active",
+        "Modalidad": "Sword",
+        "Server": "[1.21+] Sword PvP Community Hispana",
+        "Last Updated": "2025-10-11T17:04:55.551939"
       }
     ],
     "nethpot": [],
@@ -134,21 +134,21 @@
   "global_owners": [
     {
       "Rank": "Owner",
-      "Discord": "vayju",
-      "Discord ID": "823659261183262730",
-      "MC Name": "Sensei",
-      "Status": "Active",
-      "Modalidad": "Global",
-      "Last Updated": "2025-10-11T17:00:44.561223"
-    },
-    {
-      "Rank": "Owner",
       "Discord": "tiliwilis",
       "Discord ID": "1068594443441164328",
       "MC Name": "Tilw",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-11T17:00:44.562381"
+      "Last Updated": "2025-10-11T17:04:55.541358"
+    },
+    {
+      "Rank": "Owner",
+      "Discord": "vayju",
+      "Discord ID": "823659261183262730",
+      "MC Name": "Sensei",
+      "Status": "Active",
+      "Modalidad": "Global",
+      "Last Updated": "2025-10-11T17:04:55.544861"
     },
     {
       "Rank": "Owner",
@@ -157,7 +157,7 @@
       "MC Name": "!Bigcuts",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-11T17:00:44.563514"
+      "Last Updated": "2025-10-11T17:04:55.547756"
     }
   ]
 }
