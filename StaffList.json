@@ -1,91 +1,122 @@
 {
   "metadata": {
-    "last_updated": "2025-10-11T18:14:55.385745",
-    "total_staff": 15,
+    "last_updated": "2025-10-11T18:24:48.922501",
+    "total_staff": 20,
     "version": "2.0",
-    "bot_source": "SWORD"
+    "bot_source": "NETHPOT"
   },
   "modalidades": {
-    "sword": [
-      {
-        "Rank": "Manager",
-        "Discord": "meliiigi",
-        "Discord ID": "772644307072581633",
-        "MC Name": "Meli",
-        "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.386627"
-      },
+    "sword": [],
+    "nethpot": [
       {
         "Rank": "Manager",
         "Discord": "glamsillo_",
         "Discord ID": "834555196541108246",
         "MC Name": "AtKyrie",
         "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.392240"
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.261845"
+      },
+      {
+        "Rank": "ScreenSharer",
+        "Discord": "jxr3mii",
+        "Discord ID": "1249384605811736586",
+        "MC Name": "Admin | Jxr3mii",
+        "Status": "Active",
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:48.955054"
+      },
+      {
+        "Rank": "ScreenSharer",
+        "Discord": "zkernelmode",
+        "Discord ID": "1088599712090824806",
+        "MC Name": "SSer | zKernel",
+        "Status": "Active",
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:48.979156"
+      },
+      {
+        "Rank": "Senior Tester",
+        "Discord": "dnuck._.",
+        "Discord ID": "840004496067133490",
+        "MC Name": "NA | PHA",
+        "Status": "Active",
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.403705"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "kazzytsu",
-        "Discord ID": "1047279643272695828",
-        "MC Name": "SA | blackoxyz",
+        "Discord": "11011101",
+        "Discord ID": "1394815658453368944",
+        "MC Name": "SA | HAAARPER",
         "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.386854"
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:48.967310"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "ben10_p",
-        "Discord ID": "1199902619234209832",
-        "MC Name": "NA | Tedze_",
+        "Discord": "remisero912p9",
+        "Discord ID": "620119197216669706",
+        "MC Name": "SA-NA | Wafledo",
         "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.388619"
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.000298"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "pacoelpanadero",
-        "Discord ID": "670534819536699395",
-        "MC Name": "EU | SandraConFe",
+        "Discord": "nsbbq.",
+        "Discord ID": "766048405301887010",
+        "MC Name": "SA | faabula",
         "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.389026"
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.046513"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "brvwz.",
-        "Discord ID": "1383638386300162119",
-        "MC Name": "SA | Melxys",
+        "Discord": "shalhy",
+        "Discord ID": "1106675030340944032",
+        "MC Name": "NA-SA | ShaLhy_0713",
         "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.389406"
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.083946"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "korthz",
+        "Discord ID": "447100605106749440",
+        "MC Name": "! korthz",
+        "Status": "Active",
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.178909"
       },
       {
         "Rank": "Verified Tester",
         "Discord": "noseledad_",
         "Discord ID": "1418836026381832233",
-        "MC Name": "SA | NoSolote",
+        "MC Name": "Prbteesta_",
         "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.390021"
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.195064"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "frenchfries_0",
-        "Discord ID": "1326703062240329908",
-        "MC Name": "NA | DerekDeNanita",
+        "Discord": "sheik_t",
+        "Discord ID": "842936345479610389",
+        "MC Name": "NA | Versate | No Stray",
         "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.391301"
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.262517"
       },
       {
         "Rank": "Verified Tester",
@@ -93,42 +124,61 @@
         "Discord ID": "1287130730383671388",
         "MC Name": "EU | qvoh",
         "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.392475"
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.268398"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "1tkyv.2",
-        "Discord ID": "976163381679624212",
-        "MC Name": "EU | Darexcheat2006",
+        "Discord": ".sweky",
+        "Discord ID": "1212418962717941771",
+        "MC Name": "S",
         "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.392942"
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.271083"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "koreanch",
+        "Discord ID": "742711673046958091",
+        "MC Name": "SA | K1ngmichi add eval",
+        "Status": "Active",
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.283436"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "tellmeuwu0763",
+        "Discord ID": "727702865803477032",
+        "MC Name": "kelaric",
+        "Status": "Active",
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.435147"
       },
       {
         "Rank": "Verified Tester",
         "Discord": "kimity__",
         "Discord ID": "1367909617039970406",
-        "MC Name": "NA/SA | olfd",
+        "MC Name": "Helper | olfd (SA/NA)",
         "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.394643"
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.438622"
       },
       {
         "Rank": "Verified Tester",
-        "Discord": "timuel36",
-        "Discord ID": "1132736885635166278",
-        "MC Name": "NA | Shamu_MC",
+        "Discord": "zsebas_j",
+        "Discord ID": "1270951967895588884",
+        "MC Name": "zTuss1ad1to (ONLY SA)",
         "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-10-11T18:14:55.395714"
+        "Modalidad": "NetheritePot",
+        "Server": "[1.21+] Netherite Pot Community",
+        "Last Updated": "2025-10-11T18:24:49.508461"
       }
     ],
-    "nethpot": [],
     "crystal_vanilla": []
   },
   "global_owners": [
@@ -139,25 +189,25 @@
       "MC Name": "Tilw",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-11T18:14:55.388305"
+      "Last Updated": "2025-10-11T18:24:49.153901"
     },
     {
       "Rank": "Owner",
       "Discord": "vayju",
       "Discord ID": "823659261183262730",
-      "MC Name": "Sensei",
+      "MC Name": "Dev | Ma abrime porfa",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-11T18:14:55.390880"
+      "Last Updated": "2025-10-11T18:24:49.227663"
     },
     {
       "Rank": "Owner",
       "Discord": "bigcuts",
       "Discord ID": "1311116434604294244",
-      "MC Name": "!Bigcuts",
+      "MC Name": "Bigcuts",
       "Status": "Active",
       "Modalidad": "Global",
-      "Last Updated": "2025-10-11T18:14:55.392952"
+      "Last Updated": "2025-10-11T18:24:49.295390"
     }
   ]
 }
