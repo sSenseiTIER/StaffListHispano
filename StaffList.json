@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2025-10-31T23:50:57.223862",
-    "total_staff": 21,
+    "last_updated": "2025-10-31T23:53:11.051551",
+    "total_staff": 42,
     "version": "2.0",
-    "bot_source": "NETHPOT"
+    "bot_source": "VANILLA"
   },
   "modalidades": {
     "sword": [],
@@ -189,7 +189,218 @@
         "Last Updated": "2025-10-31T23:50:57.211522"
       }
     ],
-    "crystal_vanilla": []
+    "crystal_vanilla": [
+      {
+        "Rank": "Manager",
+        "Discord": "lunnny_",
+        "Discord ID": "1364057781014892597",
+        "MC Name": "SA | IlyLunnnaa @ 4 help",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.022421"
+      },
+      {
+        "Rank": "Manager",
+        "Discord": "glamsillo_",
+        "Discord ID": "834555196541108246",
+        "MC Name": "AtKyrie",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.035908"
+      },
+      {
+        "Rank": "Manager",
+        "Discord": "itzshadess",
+        "Discord ID": "1109326202793115648",
+        "MC Name": "Manager • shadens-sin teclado",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.038099"
+      },
+      {
+        "Rank": "Head Tester",
+        "Discord": "lopezqui",
+        "Discord ID": "715648575119294546",
+        "MC Name": "AUSENTE",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.017014"
+      },
+      {
+        "Rank": "Head Tester",
+        "Discord": "0uon",
+        "Discord ID": "757971997354623127",
+        "MC Name": "enlyyy don't @",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.043886"
+      },
+      {
+        "Rank": "Head Tester",
+        "Discord": "yoquese_nd",
+        "Discord ID": "1057428250961399808",
+        "MC Name": "Only Miami | KoTql_",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.048528"
+      },
+      {
+        "Rank": "Senior Tester",
+        "Discord": "scxir",
+        "Discord ID": "958518412387180544",
+        "MC Name": "NA | Scxir",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.047142"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "diusikke",
+        "Discord ID": "913924891588325376",
+        "MC Name": "NA | Diusikke",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.019687"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "dirigeanttt",
+        "Discord ID": "1365371835423653958",
+        "MC Name": "NA | X_FanDeAleswq_X",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.020719"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "ztqtem",
+        "Discord ID": "936042255599415307",
+        "MC Name": "NA | SA Styffy",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.025198"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "pieroov_",
+        "Discord ID": "858367935814828092",
+        "MC Name": "EU | piero @ for test",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.027373"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "hku9_",
+        "Discord ID": "1259172426957197316",
+        "MC Name": "NA | Hku9",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.030680"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "dytuba",
+        "Discord ID": "1232054387564875791",
+        "MC Name": "dytuba @ for help",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.031620"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "frenchfries_0",
+        "Discord ID": "1326703062240329908",
+        "MC Name": "DerekDeNanita Add me ht3s or lt2",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.034060"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "nicoow.",
+        "Discord ID": "1093732777112907777",
+        "MC Name": "gatitadejaime",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.039110"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "8mag",
+        "Discord ID": "764568397388054549",
+        "MC Name": "Sigmawwo",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.040587"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "eseweyyyy",
+        "Discord ID": "753322380323192914",
+        "MC Name": "NA | juanoelnoob09",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.045577"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "torkinzz",
+        "Discord ID": "936383659198525490",
+        "MC Name": "andres",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.046308"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "madethunder",
+        "Discord ID": "755600178584485990",
+        "MC Name": "NA | MadeTHUNDER",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.049107"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "sr_robinson",
+        "Discord ID": "1008163311306670112",
+        "MC Name": "gnarled",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.049589"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "cabezaepipe888",
+        "Discord ID": "993682551518543883",
+        "MC Name": "NA | amoayoperobaneada",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-10-31T23:53:11.050598"
+      }
+    ]
   },
   "global_owners": [
     {
