@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2025-12-02T20:29:04.944399",
-    "total_staff": 58,
+    "last_updated": "2025-12-02T20:29:15.521054",
+    "total_staff": 57,
     "version": "2.0",
-    "bot_source": "VANILLA"
+    "bot_source": "NETHPOT"
   },
   "modalidades": {
     "sword": [
@@ -147,7 +147,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.400694"
+        "Last Updated": "2025-12-02T20:29:15.475607"
       },
       {
         "Rank": "ScreenSharer",
@@ -157,7 +157,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.342553"
+        "Last Updated": "2025-12-02T20:29:15.418825"
       },
       {
         "Rank": "ScreenSharer",
@@ -167,7 +167,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.346239"
+        "Last Updated": "2025-12-02T20:29:15.423162"
       },
       {
         "Rank": "ScreenSharer",
@@ -177,7 +177,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.387188"
+        "Last Updated": "2025-12-02T20:29:15.463745"
       },
       {
         "Rank": "Senior Tester",
@@ -187,7 +187,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.409554"
+        "Last Updated": "2025-12-02T20:29:15.483500"
       },
       {
         "Rank": "Senior Tester",
@@ -197,7 +197,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.419045"
+        "Last Updated": "2025-12-02T20:29:15.491708"
       },
       {
         "Rank": "Verified Tester",
@@ -207,7 +207,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.350718"
+        "Last Updated": "2025-12-02T20:29:15.428549"
       },
       {
         "Rank": "Verified Tester",
@@ -217,7 +217,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.355290"
+        "Last Updated": "2025-12-02T20:29:15.433436"
       },
       {
         "Rank": "Verified Tester",
@@ -227,7 +227,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.359740"
+        "Last Updated": "2025-12-02T20:29:15.438111"
       },
       {
         "Rank": "Verified Tester",
@@ -237,17 +237,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.366602"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "yumisaca",
-        "Discord ID": "1350948799320690730",
-        "MC Name": "NA | Yumisaca_22 ( only stray )",
-        "Status": "Active",
-        "Modalidad": "NetheritePot",
-        "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.370081"
+        "Last Updated": "2025-12-02T20:29:15.446121"
       },
       {
         "Rank": "Verified Tester",
@@ -257,7 +247,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.384921"
+        "Last Updated": "2025-12-02T20:29:15.461777"
       },
       {
         "Rank": "Verified Tester",
@@ -267,7 +257,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.385134"
+        "Last Updated": "2025-12-02T20:29:15.461926"
       },
       {
         "Rank": "Verified Tester",
@@ -277,7 +267,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.402308"
+        "Last Updated": "2025-12-02T20:29:15.476738"
       },
       {
         "Rank": "Verified Tester",
@@ -287,7 +277,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.402719"
+        "Last Updated": "2025-12-02T20:29:15.477105"
       },
       {
         "Rank": "Verified Tester",
@@ -297,7 +287,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.405073"
+        "Last Updated": "2025-12-02T20:29:15.479692"
       },
       {
         "Rank": "Verified Tester",
@@ -307,7 +297,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.408656"
+        "Last Updated": "2025-12-02T20:29:15.482917"
       },
       {
         "Rank": "Verified Tester",
@@ -317,7 +307,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.413794"
+        "Last Updated": "2025-12-02T20:29:15.487410"
       },
       {
         "Rank": "Verified Tester",
@@ -327,7 +317,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2025-12-02T20:19:15.434465"
+        "Last Updated": "2025-12-02T20:29:15.505548"
       }
     ],
     "crystal_vanilla": [
