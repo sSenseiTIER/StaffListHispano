@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2025-12-13T01:21:04.713538",
-    "total_staff": 55,
+    "last_updated": "2025-12-13T01:21:14.261486",
+    "total_staff": 56,
     "version": "2.0",
-    "bot_source": "NETHPOT"
+    "bot_source": "VANILLA"
   },
   "modalidades": {
     "sword": [
@@ -309,7 +309,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.417749"
+        "Last Updated": "2025-12-13T01:21:14.210270"
       },
       {
         "Rank": "Manager",
@@ -319,7 +319,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.447378"
+        "Last Updated": "2025-12-13T01:21:14.236319"
       },
       {
         "Rank": "Manager",
@@ -329,7 +329,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.451850"
+        "Last Updated": "2025-12-13T01:21:14.239382"
       },
       {
         "Rank": "Head Tester",
@@ -339,7 +339,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.407453"
+        "Last Updated": "2025-12-13T01:21:14.202319"
       },
       {
         "Rank": "Head Tester",
@@ -349,7 +349,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.463138"
+        "Last Updated": "2025-12-13T01:21:14.249187"
       },
       {
         "Rank": "Head Tester",
@@ -359,7 +359,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.471929"
+        "Last Updated": "2025-12-13T01:21:14.257281"
       },
       {
         "Rank": "ScreenSharer",
@@ -369,7 +369,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.422876"
+        "Last Updated": "2025-12-13T01:21:14.214929"
       },
       {
         "Rank": "ScreenSharer",
@@ -379,7 +379,17 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.440077"
+        "Last Updated": "2025-12-13T01:21:14.228901"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "diusikke",
+        "Discord ID": "913924891588325376",
+        "MC Name": "Diusikke",
+        "Status": "Active",
+        "Modalidad": "Crystal/Vanilla",
+        "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
+        "Last Updated": "2025-12-13T01:21:14.205656"
       },
       {
         "Rank": "Verified Tester",
@@ -389,7 +399,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.414010"
+        "Last Updated": "2025-12-13T01:21:14.207623"
       },
       {
         "Rank": "Verified Tester",
@@ -399,7 +409,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.416091"
+        "Last Updated": "2025-12-13T01:21:14.209152"
       },
       {
         "Rank": "Verified Tester",
@@ -409,7 +419,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.420914"
+        "Last Updated": "2025-12-13T01:21:14.213140"
       },
       {
         "Rank": "Verified Tester",
@@ -419,7 +429,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.429237"
+        "Last Updated": "2025-12-13T01:21:14.219615"
       },
       {
         "Rank": "Verified Tester",
@@ -429,7 +439,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.435281"
+        "Last Updated": "2025-12-13T01:21:14.224894"
       },
       {
         "Rank": "Verified Tester",
@@ -439,7 +449,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.437089"
+        "Last Updated": "2025-12-13T01:21:14.226388"
       },
       {
         "Rank": "Verified Tester",
@@ -449,7 +459,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.443719"
+        "Last Updated": "2025-12-13T01:21:14.232862"
       },
       {
         "Rank": "Verified Tester",
@@ -459,7 +469,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.448913"
+        "Last Updated": "2025-12-13T01:21:14.237222"
       },
       {
         "Rank": "Verified Tester",
@@ -469,7 +479,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.454294"
+        "Last Updated": "2025-12-13T01:21:14.240999"
       },
       {
         "Rank": "Verified Tester",
@@ -479,7 +489,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.457001"
+        "Last Updated": "2025-12-13T01:21:14.243592"
       },
       {
         "Rank": "Verified Tester",
@@ -489,7 +499,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.465796"
+        "Last Updated": "2025-12-13T01:21:14.251630"
       },
       {
         "Rank": "Verified Tester",
@@ -499,7 +509,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.466802"
+        "Last Updated": "2025-12-13T01:21:14.252493"
       },
       {
         "Rank": "Verified Tester",
@@ -509,7 +519,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.468235"
+        "Last Updated": "2025-12-13T01:21:14.253918"
       },
       {
         "Rank": "Verified Tester",
@@ -519,7 +529,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.473235"
+        "Last Updated": "2025-12-13T01:21:14.258328"
       },
       {
         "Rank": "Verified Tester",
@@ -529,7 +539,7 @@
         "Status": "Active",
         "Modalidad": "Crystal/Vanilla",
         "Server": "[1.21+] Minecraft Vanilla PvP Hispana",
-        "Last Updated": "2025-12-13T01:11:14.475369"
+        "Last Updated": "2025-12-13T01:21:14.260227"
       }
     ]
   },
