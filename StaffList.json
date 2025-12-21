@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2025-12-21T15:20:38.836070",
+    "last_updated": "2025-12-21T15:22:33.079743",
     "total_staff": 61,
     "version": "2.0",
-    "bot_source": "NETHPOT"
+    "bot_source": "SWORD"
   },
   "modalidades": {
     "sword": [
@@ -15,7 +15,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-12-21T15:12:33.307176"
+        "Last Updated": "2025-12-21T15:22:33.061445"
       },
       {
         "Rank": "Manager",
@@ -25,7 +25,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-12-21T15:12:33.316823"
+        "Last Updated": "2025-12-21T15:22:33.070434"
       },
       {
         "Rank": "Senior Tester",
@@ -35,7 +35,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-12-21T15:12:33.318304"
+        "Last Updated": "2025-12-21T15:22:33.071640"
       },
       {
         "Rank": "Verified Tester",
@@ -45,7 +45,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-12-21T15:12:33.304043"
+        "Last Updated": "2025-12-21T15:22:33.058763"
       },
       {
         "Rank": "Verified Tester",
@@ -55,7 +55,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-12-21T15:12:33.305787"
+        "Last Updated": "2025-12-21T15:22:33.060222"
       },
       {
         "Rank": "Verified Tester",
@@ -65,7 +65,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-12-21T15:12:33.313639"
+        "Last Updated": "2025-12-21T15:22:33.067571"
       },
       {
         "Rank": "Verified Tester",
@@ -75,7 +75,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-12-21T15:12:33.315224"
+        "Last Updated": "2025-12-21T15:22:33.068946"
       },
       {
         "Rank": "Verified Tester",
@@ -85,7 +85,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-12-21T15:12:33.321835"
+        "Last Updated": "2025-12-21T15:22:33.074677"
       },
       {
         "Rank": "Verified Tester",
@@ -95,7 +95,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2025-12-21T15:12:33.325585"
+        "Last Updated": "2025-12-21T15:22:33.078296"
       }
     ],
     "nethpot": [
