@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-03-03T19:58:31.100818",
+    "last_updated": "2026-03-03T22:28:24.512005",
     "total_staff": 59,
     "version": "2.0",
-    "bot_source": "NETHPOT"
+    "bot_source": "SWORD"
   },
   "modalidades": {
     "sword": [
@@ -15,7 +15,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-03-03T19:58:21.762251"
+        "Last Updated": "2026-03-03T22:28:24.496432"
       },
       {
         "Rank": "Manager",
@@ -25,17 +25,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-03-03T19:58:21.772038"
-      },
-      {
-        "Rank": "Manager",
-        "Discord": "asustado.",
-        "Discord ID": "903476004830474282",
-        "MC Name": "ShafyX",
-        "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-03-03T19:58:21.776739"
+        "Last Updated": "2026-03-03T22:28:24.504804"
       },
       {
         "Rank": "Manager",
@@ -45,27 +35,37 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-03-03T19:58:21.787096"
+        "Last Updated": "2026-03-03T22:28:24.507569"
+      },
+      {
+        "Rank": "Manager",
+        "Discord": "asustado.",
+        "Discord ID": "903476004830474282",
+        "MC Name": "EVALS / Shafyx",
+        "Status": "Active",
+        "Modalidad": "Sword",
+        "Server": "[1.21+] Sword PvP Community Hispana",
+        "Last Updated": "2026-03-03T22:28:24.508173"
       },
       {
         "Rank": "Manager",
         "Discord": "anyhumanform",
         "Discord ID": "1399576478827679777",
-        "MC Name": "Morfeeo_Lt",
+        "MC Name": "Morfeo",
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-03-03T19:58:21.788535"
+        "Last Updated": "2026-03-03T22:28:24.509273"
       },
       {
         "Rank": "Verified Tester",
         "Discord": "diusikke",
         "Discord ID": "913924891588325376",
-        "MC Name": "Diusikke",
+        "MC Name": "NA | Diusikke",
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-03-03T19:58:21.760239"
+        "Last Updated": "2026-03-03T22:28:24.496256"
       },
       {
         "Rank": "Verified Tester",
@@ -75,17 +75,27 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-03-03T19:58:21.766816"
+        "Last Updated": "2026-03-03T22:28:24.500273"
       },
       {
         "Rank": "Verified Tester",
         "Discord": "_nesquik1.",
         "Discord ID": "1008921043479568424",
-        "MC Name": "Kick_Nesquikx1",
+        "MC Name": "NA | Nesquik",
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-03-03T19:58:21.774029"
+        "Last Updated": "2026-03-03T22:28:24.505478"
+      },
+      {
+        "Rank": "Verified Tester",
+        "Discord": "donluchooo",
+        "Discord ID": "1151676284238315631",
+        "MC Name": "Regulator | donluchooo",
+        "Status": "Active",
+        "Modalidad": "Sword",
+        "Server": "[1.21+] Sword PvP Community Hispana",
+        "Last Updated": "2026-03-03T22:28:24.507741"
       },
       {
         "Rank": "Verified Tester",
@@ -95,27 +105,17 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-03-03T19:58:21.778369"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "donluchooo",
-        "Discord ID": "1151676284238315631",
-        "MC Name": "donluchooo",
-        "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-03-03T19:58:21.781797"
+        "Last Updated": "2026-03-03T22:28:24.508811"
       },
       {
         "Rank": "Verified Tester",
         "Discord": "athagualpa",
         "Discord ID": "1015388131643629668",
-        "MC Name": "keskloa",
+        "MC Name": "NA | keskloa |  No laggers",
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-03-03T19:58:21.783464"
+        "Last Updated": "2026-03-03T22:28:24.510618"
       }
     ],
     "nethpot": [
