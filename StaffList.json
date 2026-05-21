@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-05-21T18:24:46.103516",
-    "total_staff": 48,
+    "last_updated": "2026-05-21T23:59:20.471301",
+    "total_staff": 47,
     "version": "2.0",
-    "bot_source": "NETHPOT"
+    "bot_source": "SWORD"
   },
   "modalidades": {
     "sword": [
@@ -15,7 +15,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-05-21T17:59:26.351299"
+        "Last Updated": "2026-05-21T23:59:20.428491"
       },
       {
         "Rank": "Manager",
@@ -25,7 +25,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-05-21T17:59:26.376429"
+        "Last Updated": "2026-05-21T23:59:20.456492"
       },
       {
         "Rank": "Manager",
@@ -35,7 +35,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-05-21T17:59:26.379025"
+        "Last Updated": "2026-05-21T23:59:20.459149"
       },
       {
         "Rank": "Manager",
@@ -45,7 +45,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-05-21T17:59:26.382159"
+        "Last Updated": "2026-05-21T23:59:20.462384"
       },
       {
         "Rank": "Verified Tester",
@@ -55,7 +55,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-05-21T17:59:26.348914"
+        "Last Updated": "2026-05-21T23:59:20.425612"
       },
       {
         "Rank": "Verified Tester",
@@ -65,17 +65,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-05-21T17:59:26.358364"
-      },
-      {
-        "Rank": "Verified Tester",
-        "Discord": "eder_78708",
-        "Discord ID": "1274549107935019122",
-        "MC Name": "ChitEdxr",
-        "Status": "Active",
-        "Modalidad": "Sword",
-        "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-05-21T17:59:26.385733"
+        "Last Updated": "2026-05-21T23:59:20.435589"
       },
       {
         "Rank": "Verified Tester",
@@ -85,7 +75,7 @@
         "Status": "Active",
         "Modalidad": "Sword",
         "Server": "[1.21+] Sword PvP Community Hispana",
-        "Last Updated": "2026-05-21T17:59:26.393457"
+        "Last Updated": "2026-05-21T23:59:20.468152"
       }
     ],
     "nethpot": [
