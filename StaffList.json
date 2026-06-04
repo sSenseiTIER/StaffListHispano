@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-06-04T00:00:47.693857",
+    "last_updated": "2026-06-04T00:24:39.959129",
     "total_staff": 46,
     "version": "2.0",
-    "bot_source": "VANILLA"
+    "bot_source": "NETHPOT"
   },
   "modalidades": {
     "sword": [
@@ -87,7 +87,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.759757"
+        "Last Updated": "2026-06-04T00:24:39.715909"
       },
       {
         "Rank": "Developer",
@@ -97,7 +97,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.915737"
+        "Last Updated": "2026-06-04T00:24:39.874956"
       },
       {
         "Rank": "Manager",
@@ -107,7 +107,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.902733"
+        "Last Updated": "2026-06-04T00:24:39.859584"
       },
       {
         "Rank": "Head Tester",
@@ -117,7 +117,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.900690"
+        "Last Updated": "2026-06-04T00:24:39.857225"
       },
       {
         "Rank": "Head Tester",
@@ -127,7 +127,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.966942"
+        "Last Updated": "2026-06-04T00:24:39.926057"
       },
       {
         "Rank": "ScreenSharer",
@@ -137,7 +137,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.769072"
+        "Last Updated": "2026-06-04T00:24:39.728570"
       },
       {
         "Rank": "Senior Tester",
@@ -147,7 +147,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.852557"
+        "Last Updated": "2026-06-04T00:24:39.797887"
       },
       {
         "Rank": "Senior Tester",
@@ -157,7 +157,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.890092"
+        "Last Updated": "2026-06-04T00:24:39.838370"
       },
       {
         "Rank": "Senior Tester",
@@ -167,7 +167,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.918501"
+        "Last Updated": "2026-06-04T00:24:39.876689"
       },
       {
         "Rank": "Verified Tester",
@@ -177,7 +177,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.780378"
+        "Last Updated": "2026-06-04T00:24:39.736249"
       },
       {
         "Rank": "Verified Tester",
@@ -187,7 +187,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.838318"
+        "Last Updated": "2026-06-04T00:24:39.782080"
       },
       {
         "Rank": "Verified Tester",
@@ -197,7 +197,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.933641"
+        "Last Updated": "2026-06-04T00:24:39.891718"
       },
       {
         "Rank": "Verified Tester",
@@ -207,7 +207,7 @@
         "Status": "Active",
         "Modalidad": "NetheritePot",
         "Server": "[1.21+] Netherite Pot Community Hispana",
-        "Last Updated": "2026-06-03T18:24:45.951372"
+        "Last Updated": "2026-06-04T00:24:39.907732"
       }
     ],
     "crystal_vanilla": [
